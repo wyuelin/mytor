@@ -4436,7 +4436,7 @@ struct socks_request_t {
 /********************************* circuitbuild.c **********************/
 
 /** How many hops does a general-purpose circuit have by default? */
-#define DEFAULT_ROUTE_LEN 1
+#define DEFAULT_ROUTE_LEN 3
 
 /* Circuit Build Timeout "public" structures. */
 
